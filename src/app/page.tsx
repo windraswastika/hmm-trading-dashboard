@@ -5,7 +5,7 @@ export default function Home() {
         {/* Header */}
         <header className="text-center mb-12">
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">
-            🚀 HMM Trading Dashboard
+            HMM Trading Dashboard
           </h1>
           <p className="text-xl text-blue-200">
             Hidden Markov Model Bitcoin Trading Strategy
