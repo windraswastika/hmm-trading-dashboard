@@ -41,7 +41,7 @@ export default function Home() {
               👋 Hello World!
             </h2>
             <p className="text-blue-200 text-lg mb-6">
-              Welcome to the HMM Trading Dashboard. This is a simple "Hello World" version.
+              Welcome to the HMM Trading Dashboard. This is a simple &ldquo;Hello World&rdquo; version.
             </p>
             <div className="bg-green-500/20 border border-green-500/30 rounded-lg p-4">
               <p className="text-green-300 font-medium">
